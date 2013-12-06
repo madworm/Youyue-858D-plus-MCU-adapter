@@ -1,0 +1,87 @@
+Cmp-Mod V01 Created by CvPcb (2013-12-05 BZR 4523)-product date = Fri 06 Dec 2013 07:13:49 PM CET
+
+BeginCmp
+TimeStamp = /52A20F0D;
+Reference = C1;
+ValeurCmp = 10µF;
+IdModule  = MADW__C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A1E31B;
+Reference = C2;
+ValeurCmp = 10µF;
+IdModule  = MADW__C0805;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A1DA21;
+Reference = JP1;
+ValeurCmp = ISP;
+IdModule  = pin_array_3x2;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A1DA08;
+Reference = P1;
+ValeurCmp = MADW__DIL28;
+IdModule  = DIP-28__300_ELL;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A1DAE7;
+Reference = P2;
+ValeurCmp = CONN_14;
+IdModule  = MADW__SIL-14-1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A21205;
+Reference = P3;
+ValeurCmp = CONN_14;
+IdModule  = MADW__SIL-14-1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A1DAC1;
+Reference = P4;
+ValeurCmp = CONN_14;
+IdModule  = MADW__SIL-14-1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A21223;
+Reference = P5;
+ValeurCmp = CONN_14;
+IdModule  = MADW__SIL-14-1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A21237;
+Reference = P6;
+ValeurCmp = CONN_14;
+IdModule  = MADW__SIL-14-1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A207E8;
+Reference = P7;
+ValeurCmp = CONN_14;
+IdModule  = MADW__SIL-14-1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A2124B;
+Reference = P8;
+ValeurCmp = CONN_14;
+IdModule  = MADW__SIL-14-1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = /52A207DA;
+Reference = P9;
+ValeurCmp = CONN_14;
+IdModule  = MADW__SIL-14-1.27mm;
+EndCmp
+
+EndListe

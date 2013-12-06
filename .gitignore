@@ -1,0 +1,7 @@
+*.000
+*.bak
+*.brd-bak
+*.kicad_pcb-bak
+$save*
+*~
+_autosave*
