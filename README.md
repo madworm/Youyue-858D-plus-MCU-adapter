@@ -4,7 +4,7 @@ Youyue-858D+ MCU-adapter:
 
 LAYOUT FILES: ATmega168/328 adapter board for the Youyue 858D+.  
 
-[![Adapter front](/Docs/real-thing.jpg)](/Docs/real-thing.jpg)
+[![Adapter front](/Docs/assembled.jpg)](/Docs/assembled.jpg)
 
 The purpose if this little board is to add an ISP header and a convenient way of adding
 more stuff via some TH solder pads.
