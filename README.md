@@ -14,6 +14,8 @@ These same machined pins go into the bigger holes of the adapter board and form 
 low-profile socket for the new MCU (ATmega168). The adapter board then plugs into
 the socket on the main circuit board.
 
+Firmware [repository](https://github.com/madworm/Youyue-858D-plus).
+
 
 ---
 
